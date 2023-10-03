@@ -1,0 +1,24 @@
+{
+  "name": "better-chalk",
+  "version": "1.0.0",
+  "description": "better chalk is a powerful package that can design your console with more then 1000 colors, hex code option , bold color and more!",
+  "main": "main.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eyalgreenDev/better-chalk.git"
+  },
+  "keywords": [
+    "chalk",
+    "colors",
+    "eyalgreen"
+  ],
+  "author": "EyalGreen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eyalgreenDev/better-chalk/issues"
+  },
+  "homepage": "https://github.com/eyalgreenDev/better-chalk#readme"
+}
